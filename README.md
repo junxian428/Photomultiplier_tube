@@ -63,3 +63,11 @@ The textbook picture of a PMT involves a Cathode, Anode and lots of Dynodes in-b
 That's the theory anyway. In practice it's a little more convoluted - special photocathodes to maximize emission from certain wavelengths, and bizarre dynode geometry for the best balance between linearity, dark current, temperature stability and so on.
 
 An excellent PDF file is available from Hamamatsu, a manufacturer of PMTs, here. It serves as both a manual and reference for actual designs of PMTs beyond the usual simplified diagrams.
+
+
+
+Teardown
+Since we have several tubes to spare, it is mandatory that we tear at least one of them to bits. To bits!
+First step is removing the plastic tube at the base. This comes off by breaking or levering back the tabs around the rim.
+
+
